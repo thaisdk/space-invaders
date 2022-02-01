@@ -1,20 +1,25 @@
-<h1>space-invaders</h1>
-<hr>
-<p> Em <i>Space Invaders</i>, o jogador controla uma pequena espaçonave no centro da parte inferior da tela. O jogador pode mover a espaçonave para a direita e esquerda (teclas) e atirar (espaço) nos alienígenas. Quando uma frota de alienígenas é destruida, uma nova frota é iniciada e assim continua. 
+# space-invaders
 
-<p>O jogador possui três vidas e caso todas acabem o jogo termina.</p>
+---
 
-<h2>Sumário</h2>
-<ol>
-    <li><a href="#como-jogar">Como jogar</a></li>
-    <li><a href="#tecnologias">Tecnologias</a></li>
-    <li><a href="#ferramentas">Ferramentas</a></li>
-<ol>
-<h3 id="como-jogar">Como jogar:</h3>
+Em *Space Alien Invaders*, o jogador controla uma pequena espaçonave e tem como missão destruir os alienígenas invasores. O jogador pode mover a espaçonave para a direita e esquerda (teclas) e atirar (espaço) nos alienígenas. Quando uma frota de alienígenas é destruída, uma nova frota é iniciada e assim continua.
 
-<h3 id="tecnologias">Tecnologias:</h3>
-<ul>
-    <li>Pygame</li>
-<ul>
+O jogador possui **três vidas** e caso todas acabem o jogo **termina**.
 
-<h3 id="#ferramentas">Ferramentas: </h3>
+## Sumário
+
+- [Como Jogar](https://www.notion.so/Space-Invaders-46af6c5245824a2cb28153ac950cc054)
+- [Tecnologias](https://www.notion.so/Space-Invaders-46af6c5245824a2cb28153ac950cc054)
+- [Ferramentas](https://www.notion.so/Space-Invaders-46af6c5245824a2cb28153ac950cc054)
+
+---
+
+### Como Jogar
+
+### Tecnologias
+
+- Pygame
+
+### Ferramentas
+
+- Pixilart
