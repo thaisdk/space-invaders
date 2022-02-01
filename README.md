@@ -8,11 +8,11 @@
 
 <h2>Tecnologias:</h2>
 <ul>
-    <ol>Pygame</ol>
+    <li>Pygame</li>
   
 <ul>
 
 <h2>Ferramentas:</h2>
 <ul>
-    <ol>Pixilart</ol>
+    <li>Pixilart</li>
 <ul>
