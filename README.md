@@ -4,11 +4,17 @@
 
 <p>O jogador possui três vidas e caso todas acabem o jogo termina.</p>
 
-<h2>Como jogar:</h2>
+<h2>Sumário</h2>
+<ol>
+    <li><a href="#como-jogar">Como jogar</a></li>
+    <li><a href="#tecnologias">Tecnologias</a></li>
+    <li><a href="#ferramentas">Ferramentas</a></li>
+<ol>
+<h3 id="como-jogar">Como jogar:</h3>
 
-<h2>Tecnologias:</h2>
+<h3 id="tecnologias">Tecnologias:</h3>
 <ul>
     <li>Pygame</li>
 <ul>
 
-
+<h3 id="#ferramentas">Ferramentas: </h3>
