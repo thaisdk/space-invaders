@@ -5,3 +5,14 @@
 <p>O jogador possui três vidas e caso todas acabem o jogo termina.</p>
 
 <h2>Como jogar:</h2>
+
+<h2>Tecnologias:</h2>
+<ul>
+    <ol>Pygame</ol>
+  
+<ul>
+
+<h2>Ferramentas:</h2>
+<ul>
+    <ol>Pixilart</ol>
+<ul>
