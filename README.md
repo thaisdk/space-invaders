@@ -11,8 +11,4 @@
     <li>Pygame</li>
 <ul>
 
-<h2>Ferramentas:</h2>
-<ul>
-    <li>Pixilart</li>
-<ul>
 
