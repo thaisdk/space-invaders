@@ -14,7 +14,7 @@ O jogador possui **três vidas** e caso todas acabem o jogo **termina**.
 ---
 ### Progresso:
 
-![2_2_22.gif](https://github.com/thaisdk/space-invaders/blob/main/images/2_2_22.gif)
+![2_2_22.gif](https://github.com/thaisdk/space-invaders/blob/main/images/space.gif)
 
 
 ### Como Jogar
