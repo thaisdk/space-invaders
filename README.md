@@ -6,11 +6,15 @@ O jogador possui **três vidas** e caso todas acabem o jogo **termina**.
 
 ## Sumário
 
+- [Progresso] (https://github.com/thaisdk/space-invaders#progresso)
 - [Como Jogar](https://github.com/thaisdk/space-invaders#como-jogar)
 - [Tecnologias](https://github.com/thaisdk/space-invaders#tecnologias)
 - [Ferramentas](https://github.com/thaisdk/space-invaders#ferramentas)
 
 ---
+### Progresso:
+
+[2022-02-02 12-45-59.mkv](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b7c804a-9927-4aa7-bf80-8dab7bfbeccf/2022-02-02_12-45-59.mkv)
 
 ### Como Jogar
 
