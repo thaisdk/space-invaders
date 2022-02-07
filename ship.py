@@ -1,14 +1,15 @@
 import pygame
 
-class Ship():
+class Ship(pygame.sprite.Sprite):
     # Espaço nave
     def __init__(self, game_settings, screen):
+        super(Ship, self).__init__()
         # Incializa a espaço nave
         self.screen = screen
         self.game_settings = game_settings
         
         # Carrega a imagem 
-        self.image = pygame.image.load('images\ship1.png')
+        self.image = pygame.image.load('images\ship.png')
         self.rect = self.image.get_rect()  # Pega o retangulo da imagen
         self.screen_rect = screen.get_rect()  # Pega o retagulo da tela
         
@@ -31,6 +32,8 @@ class Ship():
         
         self.rect.centerx = self.center
         
+    def center_ship(self):
+        self.center = self.screen_rect.centerx
         
     def blitme(self):
         # Desenha a espaço nave
