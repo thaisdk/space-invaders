@@ -3,8 +3,8 @@ class Settings():
     
     def __init__(self):
         # Inicializa as configurações
-        self.screen_width = 1200
-        self.screen_height = 640
+        self.screen_width = 1366
+        self.screen_height = 768
         self.screen_background = (30,30,30)
         
         # Infos da nave
